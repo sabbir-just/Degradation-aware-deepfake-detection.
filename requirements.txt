@@ -1,0 +1,8 @@
+# Tested against the Kaggle GPU image; any recent versions should work.
+torch>=2.1
+torchvision>=0.16
+numpy
+pandas
+scikit-learn
+pillow
+matplotlib

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or the released models, please cite the paper below."
+title: "Degradation-Aware Deepfake Detection"
+type: software
+authors:
+  - family-names: "Hasan"
+    given-names: "Syed Azmul"
+repository-code: "https://github.com/sabbir-just/Degradation-aware-deepfake-detection"
+license: MIT
+# TODO: replace title/authors with the final paper metadata and add a `preferred-citation` block once published.

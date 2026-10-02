@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Model weights and run outputs (weights are hosted on Kaggle, see README)
+*.pth
+*.pt
+*.tmp
+file_index_cache.pkl
+ModelA_Baseline_EfficientNetB0/
+ModelB_DegradationAware_EfficientNetB0/
+ModelB1_DegAugOnly_EfficientNetB0/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
